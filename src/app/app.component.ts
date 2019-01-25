@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'safeurls';
+  urlIds = [1001, 1002, 1003, 1004, 1005];
 }
